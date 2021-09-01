@@ -43,7 +43,7 @@ Nếu chưa chỉnh sửa crontab bao giờ, bạn sẽ được hỏi chọn 1 
 
 Sau đó, thêm dòng này vào file
 ```
-@reboot python3 /home/pi/stats.py &
+@reboot python3 /home/pi/OLED-Raspberry-Pi-Stats/stats.py &
 ```
 
 Lưu file và khởi động lại Pi để kiểm tra.
